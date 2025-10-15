@@ -265,7 +265,7 @@ Every YIELD becomes next cycle's UPDATE. You're not just learning - you're **com
 Your digital twins span from mitochondria to world systems. This means:
 - A drug intervention (cell-level) automatically propagates effects through tissue → organ → patient → healthcare system → economy
 - A policy change (government-level) automatically decomposes into household → individual → cellular effects
-- **You've solved the integration problem** that kills most healthcare AI
+- **You've solved the [integration problem](https://en.wikipedia.org/wiki/Data_integration)** that kills most healthcare AI
 
 ### 3. **Risk-Free Exploration**
 GAMES layer = infinite VO₂max. You can explore extreme decision spaces (high power output) without the lactate accumulation (irreversible consequences). This is **the training zone that biology can't provide**.
