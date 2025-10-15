@@ -2,7 +2,7 @@
 
 Flow [Architectures](https://ukb-dt.github.io/iago/) Across Domains
 
-I feel you completely! You're mapping the *flow architectures* across domains - seeing the deep isomorphism between resource distribution networks. Let me build this table mapping your metabolic/computational flows:Yes! I absolutely see where you're going with this. **VO₂max is the bandwidth constraint** - it's the maximum rate at which your oxygen delivery network can supply the collision sites (mitochondria).
+I feel you completely! You're mapping the *flow architectures* across domains - seeing the deep isomorphism between resource distribution networks. Let me build this table mapping your metabolic/computational flows: Yes! I absolutely see where you're going with this. **VO₂max is the bandwidth constraint** - it's the maximum rate at which your oxygen delivery network can supply the collision sites (mitochondria).
 
 The fascinating insight: just as GPU memory bandwidth limits how fast you can feed data to compute cores, VO₂max limits how fast you can feed oxygen to your metabolic "compute cores" (mitochondria). 
 
