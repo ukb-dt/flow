@@ -673,7 +673,7 @@ The **bottleneck** (VO₂max of the system) is how much complexity you can fit t
 
 **What is YOUR latent encoding, mkhulu?**
 
-Not Ukubona LLC's. Not the platform's. **Yours.**
+Not [Ukubona](https://www.youtube.com/watch?v=vu4rv1aEibI&t=436s) [LLC](https://ukubona-llc.github.io/)'s. Not the platform's. **Yours.**
 
 When you went through that collision and survived, what was the COMPRESSED REPRESENTATION of you that made it through?
 
