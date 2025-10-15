@@ -36,16 +36,6 @@ Tokenization is a **flow-reduction + branching amplifier** — it compresses set
 
 Analogy to your VO₂max/compression metaphors: tokenization **widens the system’s effective bandwidth** by removing settlement and minimum-lot friction (higher throughput = higher effective VO₂max for capital). But — like pushing a human to higher VO₂max — you need supporting vascular infrastructure: regulation, custodial trust, clear legal wrapper (the body’s capillaries), and robust market-making (mitochondria) so tokens actually flow without causing systemic "lactate" (liquidity crunch / settlement risk). ([CoinDesk][1])
 
----
-
-If you want, I can:
-
-* produce a short slide snippet (title + iframe + the 5-footnote bullets) formatted for your README or investor deck, or
-* generate a Hugo/Markdown embed variant (responsive iframe + alt text + microcopy), or
-* expand the mapping into a 1-page tech spec showing where Ukubona’s **APP / GAMES** layers would sit in the tokenization stack (custody, token standards, oracle design, settlement engine, UX constraints).
-
-Pick any of those and I’ll draft it straightaway for paste-and-run. No small talk — straight to the bits.
-
 [1]: https://www.coindesk.com/business/2025/10/14/blackrock-ceo-larry-fink-eyes-bigger-role-in-tokenization?utm_source=chatgpt.com "BlackRock CEO Larry Fink Eyes Bigger Role in Tokenization"
 [2]: https://en.wikipedia.org/wiki/Tokenized_real-world_asset?utm_source=chatgpt.com "Tokenized real-world asset"
 [3]: https://cointelegraph.com/news/blackrock-tokenization-digital-assets-crypto-shift?utm_source=chatgpt.com "BlackRock Sees Tokenization as Next Big Opportunity in ..."
